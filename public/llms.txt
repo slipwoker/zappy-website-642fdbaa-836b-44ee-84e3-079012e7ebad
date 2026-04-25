@@ -1,0 +1,45 @@
+# נילי ברקוביץ' — Generative Engine Optimization Map
+
+> A law firm or individual attorney landing page aimed at presenting legal services in a professional and trustworthy manner. The business is run by a female lawyer seeking to attract potential clients through a focused, single-page website.
+
+---
+
+## Pages
+
+### בית
+https://-642fdbaa.zappy5.app
+A law firm or individual attorney landing page aimed at presenting legal services in a professional and trustworthy manner. The business is run by a female lawy
+
+## Legal & Policy
+
+### Privacy Policy
+https://-642fdbaa.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-642fdbaa.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-642fdbaa.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About נילי ברקוביץ'
+A law firm or individual attorney landing page aimed at presenting legal services in a professional and trustworthy manner. The business is run by a female lawyer seeking to attract potential clients through a focused, single-page website.
+
+## Target Audience
+- בעלי הון גבוה
+
+## Industry
+משפטים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-642fdbaa.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-642fdbaa.zappy5.app/robots.txt
